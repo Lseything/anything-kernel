@@ -23,5 +23,7 @@ This repository contains the Android Anything kernel, specifically tailored for 
 
 This project is licensed under the [GPL-2.0 License](LICENSE).
 
+## Contact
+
 @Lseything on Telegram
 <lseything@proton.me>
