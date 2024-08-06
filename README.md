@@ -25,5 +25,4 @@ This project is licensed under the [GPL-2.0 License](LICENSE).
 
 ## Contact
 
-@Lseything on Telegram
-<lseything@proton.me>
+* <lseything@proton.me>
