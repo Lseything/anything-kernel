@@ -8,7 +8,7 @@ This repository contains the source code for the Android Anything kernel, specif
 
 ## Features
 
-- **Kernel Version:** 5.15.152
+- **Kernel Version:** 5.15x
 - **Source Base:** CodeLinaro (CLO)
 - **Supported Devices:** Redmi Note 12 4G / 13 4G (Topaz, Tapas, Sapphire, Sapphiren)
 - **Boot Support:** Capable of booting on all supported devices
