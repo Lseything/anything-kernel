@@ -2,7 +2,7 @@
   <img src="assets/official-banner.png"/>
 </p>
 
-# Android Anything Kernel for Redmi Note 12 4G (Topaz, Tapas, Sapphire, Sapphiren)
+# Android Anything Kernel for Redmi Note 12 4G / 13 4G (Topaz, Tapas, Sapphire, Sapphiren)
 
 ## Overview
 
