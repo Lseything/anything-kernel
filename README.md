@@ -8,7 +8,7 @@
 
 ## Overview
 
-This repository contains the Android Anything kernel, specifically tailored for the Redmi Note 12 4G /13 4G devices, including Topaz, Tapas, Sapphire, and Sapphiren models. The kernel is based on version 5.15.152 and utilizes the CodeLinaro (CLO) source base to ensure compatibility and performance optimizations.
+This repository contains the Android Anything kernel, specifically tailored for the Redmi Note 12 4G / 13 4G devices, including Topaz, Tapas, Sapphire, and Sapphiren models. The kernel is based on version 5.15.152 and utilizes the CodeLinaro (CLO) source base to ensure compatibility and performance optimizations.
 
 ## Features
 
