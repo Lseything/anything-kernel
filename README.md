@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/pixelcut-export.png"/>
+  <img src="assets/IMG_20241009_214529_476.jpg"/>
 </p>
 
 # Android Anything Kernel for Redmi Note 12 4G / 13 4G (Topaz, Tapas, Sapphire, Sapphiren, Bengal Devices)
